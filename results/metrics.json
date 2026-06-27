@@ -1,0 +1,32 @@
+{
+  "notre-dame": {
+    "features_image_a": 6396,
+    "features_image_b": 5237,
+    "accepted_matches": 595,
+    "pca_dimensions": 32,
+    "pca_explained_variance": 0.7964,
+    "top_50_accuracy": 98,
+    "top_100_accuracy": 99,
+    "all_matches_accuracy": 91
+  },
+  "mount-rushmore": {
+    "features_image_a": 10439,
+    "features_image_b": 14638,
+    "accepted_matches": 406,
+    "pca_dimensions": 32,
+    "pca_explained_variance": 0.7832,
+    "top_50_accuracy": 100,
+    "top_100_accuracy": 100,
+    "all_matches_accuracy": 99
+  },
+  "episcopal-gaudi": {
+    "features_image_a": 3121,
+    "features_image_b": 10405,
+    "accepted_matches": 69,
+    "pca_dimensions": 32,
+    "pca_explained_variance": 0.8015,
+    "top_50_accuracy": 86,
+    "top_100_accuracy": null,
+    "all_matches_accuracy": 86
+  }
+}
